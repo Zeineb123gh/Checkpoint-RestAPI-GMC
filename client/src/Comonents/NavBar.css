@@ -1,0 +1,8 @@
+a {
+  text-decoration: none;
+  color: rgb(235, 94, 13);
+  font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+}
+a:hover {
+  border-bottom: 2px solid rgb(235, 94, 13);
+}

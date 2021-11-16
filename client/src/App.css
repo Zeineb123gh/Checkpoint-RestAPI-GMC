@@ -1,0 +1,22 @@
+.contactList {
+  display: flex;
+  justify-content: space-between;
+  flex-wrap: wrap;
+}
+form {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-around;
+  margin: 2%;
+  width: 30%;
+  margin-left: 35%;
+  margin-top: 2%;
+}
+form div {
+  margin: 2%;
+}
+form h1 {
+  margin-bottom: 9%;
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+  color: rgb(7, 7, 87);
+}

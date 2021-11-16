@@ -1,0 +1,14 @@
+.home {
+  text-align: center;
+  font-size: 60px;
+  text-decoration: underline;
+  color: rgb(212, 116, 37);
+  font-family: fantasy;
+}
+.img {
+  display: flex;
+  align-content: center;
+  margin-left: 20%;
+  margin-right: 20%;
+  float: center;
+}
